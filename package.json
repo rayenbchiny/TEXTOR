@@ -1,7 +1,7 @@
 {
   "name": "textor",
   "version": "1.0.0",
-  "description": "![Demo App](https://i.ibb.co/gFSMzKN/1.png)",
+  "description": "TEXTING app",
   "main": "server.js",
   "scripts": {
     "server": "nodemon backend/server.js",
